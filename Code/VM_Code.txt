@@ -1,0 +1,39 @@
+sudo apt-get update
+
+sudo apt-get install python3-distutils
+
+sudo apt-get install python3-apt
+
+sudo apt-get install wget
+
+wget https://bootstrap.pypa.io/get-pip.py
+
+sudo python3 get-pip.py
+
+--error---------------
+# Install Mage
+sudo pip3 install mage-ai 
+
+# Install Pandas
+sudo pip3 install pandas
+
+# Install Google Cloud Library
+sudo pip3 install google-cloud
+
+sudo pip3 install google-cloud-bigquery
+
+-------------------------------------------------------
+# Install venv module if not already installed
+sudo apt-get install python3-venv
+
+# Create a virtual environment
+python3 -m venv mage-env
+
+# Activate the environment
+source mage-env/bin/activate
+
+# Now install Mage and other libraries
+pip install mage-ai
+pip install pandas
+pip install google-cloud
+pip install google-cloud-bigquery
