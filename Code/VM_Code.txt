@@ -37,3 +37,7 @@ pip install mage-ai
 pip install pandas
 pip install google-cloud
 pip install google-cloud-bigquery
+
+#Start Mage Project
+
+mage start Prjct_name (ex - uber-de-project)
