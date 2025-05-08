@@ -29,4 +29,21 @@ Link - https://github.com/prathimasvani/Uber-Data-Analytics-Project/blob/main/ub
 
 ![DataModel](Dimension_Modelling.PNG)
 
+##Overview
 
+1. Designed a Star schema (Fact and Dimension Table) using Lucid Chart
+2. Stored Raw data in Google Cloud Storage.
+3. Created Compute Engine VM on GCP to host Mage AI
+4. Performed Extraction , Transformation and loading into BigQuery using Mage AI
+    4.1 Extraction - From GCP URL --> Mage
+    4.2 Transformation - Convert datetime fields, Drop duplicates, Creating fact and dimension Tables.
+    4.3 Loading - Loaded Data into BigQuery
+5. Created DataSet using required information for analytics in BigQuery   
+6. Transformed data is visualized in Looker dashboards.
+
+
+
+
+##Acknoweledgment
+
+A big shoutout to Darshil for this tutorial and the amazing youtube content.
