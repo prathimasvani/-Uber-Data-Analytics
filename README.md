@@ -29,7 +29,7 @@ Link - https://github.com/prathimasvani/Uber-Data-Analytics-Project/blob/main/ub
 
 ![DataModel](Dimension_Modelling.PNG)
 
-##Overview
+## Overview
 
 1. Designed a Star schema (Fact and Dimension Table) using Lucid Chart
 2. Stored Raw data in Google Cloud Storage.
@@ -41,9 +41,15 @@ Link - https://github.com/prathimasvani/Uber-Data-Analytics-Project/blob/main/ub
 5. Created DataSet using required information for analytics in BigQuery   
 6. Transformed data is visualized in Looker dashboards.
 
+## Insights
+
+The final dashboard, built using Looker Studio, provides interactive visual insights into Uber trip data. Users can filter by vendor ID, payment type, rate code, and trip distance. Key performance indicators such as total revenue, average fare, average tip, and trip distance are summarized. A geo map visualization displays pickup spots.
+
+![Dashboard][Uber_Analytics_Looker_Dashboard.png]
 
 
 
-##Acknoweledgment
+
+## Acknoweledgment
 
 A big shoutout to Darshil for this tutorial and the amazing youtube content.
