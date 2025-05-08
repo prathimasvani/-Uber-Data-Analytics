@@ -6,14 +6,18 @@ This project is about performing data analytics on Uber data using various tools
 ## Architecture
 ![Architecture](Pipeline_Architecture.PNG)
 
-## Technology
+## Technology and Tools Used
 
-1. Programming language : Python
-2. Google Cloud Storage
-3. Compute Instance
-4. Mage AI - https://www.mage.ai/ 
-5. Bigquery
-6. Looker Studio
+1. Programming language : **Python** 
+2. **Lucid Chart** - Designed fact and dimension tables
+
+GCP
+---
+3. **Google Cloud Storage** - Data Storage
+4. **Compute Instance** - To Host Mage AI
+5.  **Mage AI** - https://www.mage.ai/ - ETL Pipeline - To extract, Transform and load into bigquery
+6. **Bigquery** (DataWarehouse) - A part of GCP to create DataSet for analytics 
+7. **Looker Studio** - A data visualization and analytics tool that enables users to build an interactive dashboard.
 
 ## DataSet
 
@@ -23,6 +27,6 @@ Link - https://github.com/prathimasvani/Uber-Data-Analytics-Project/blob/main/ub
 
 ## Dimension Modelling
 
-![DataModel](Dimension Modelling.PNG)
+![DataModel](Dimension_Modelling.PNG)
 
 
