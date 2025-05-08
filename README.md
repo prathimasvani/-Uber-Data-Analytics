@@ -23,7 +23,7 @@ GCP
 
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-Link - [Uber_Data]([https://your-url.com](https://github.com/prathimasvani/Uber-Data-Analytics-Project/blob/main/uber_data.csv))
+Link - [Uber_Data][https://github.com/prathimasvani/Uber-Data-Analytics-Project/blob/main/uber_data.csv]
 
 ## Dimension Modelling
 
