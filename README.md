@@ -43,12 +43,13 @@ Link - https://github.com/prathimasvani/Uber-Data-Analytics-Project/blob/main/ub
 
 ## Insights
 
-The final dashboard, built using Looker Studio, provides interactive visual insights into Uber trip data. Users can filter by vendor ID, payment type, rate code, and trip distance. Key performance indicators such as total revenue, average fare, average tip, and trip distance are summarized. A geo map visualization displays pickup spots.
+The final dashboard, built using Looker Studio, provides interactive visual insights into Uber trip data.
+
+1. Interactive filters help explore trips by vendor, payment type,rate code and distance.
+2. Key performance indicators such as total revenue, average fare, average tip, and trip distance are summarized.
+3. A geo map visualization displays pickup spots.
 
 ![Dashboard](Uber_Analytics_Looker_Dashboard.PNG)
-
-
-
 
 ## Acknoweledgment
 
